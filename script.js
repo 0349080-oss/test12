@@ -158,51 +158,29 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "14yo creature on the internet",
-    "only 14 years old, don't think about it",
-    "goldentrophy's big brother",
+    "15yo creature on the internet",
+    "only 15 years old, don't think about it",
+    "i don't have a brother",
     "creator of some stupid mod",
     "owner of goldentrophy software",
 
     "403 forbidden",
     "object reference not set to an instance of an object",
-    "transcending beyond this plane",
     "winforms is so bad it's good",
 
-    "lost online",
-    "let go",
-    "i'm trying my best",
-    "in a world of people trying to fit in you stand out as the only one left with personality",
-    "let me out of this device",
-    "my negativity is a mirror",
-    "thank you my make-believe friends",
-
-    "just be yourself",
-    "an uncontrollable foreverlong mechanism",
-    "marketing at its finest",
     "i support mostly everyone",
-    "there's nothing wrong with you",
     "never underestimate yourself",
     "check out my site: 127.0.0.1:3000",
 
-    "unable to exit this mortal plane",
-    "loud sounds i cannot control",
-    "consuming content by media",
-    "died in 2016 and in virtual hell",
-    "the stars align in an unfollowable path",
-    "from the lands of which i don't understand",
-    "why as soon as we become so close we have to say goodbye",
-
     "i hate cosine",
     "mechanical keyboards",
-    "it's just an illusion",
     "contacting the mothership",
 
     "i <3 debian",
     "i hate typescript",
-    "sorting my life with ls",
 
-    "admin@goldentrophy.software"
+    "admin@goldentrophy.software",
+    "hi nick"
   ];
   let bioText = '';
   let bioIndex = 0;
